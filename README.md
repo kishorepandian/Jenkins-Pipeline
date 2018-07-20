@@ -1,6 +1,8 @@
 # Jenkins-Pipeline
 A sample Jenkinsfile for a Laravel / PHP application deployed to AWS using the Jenkins Pipeline format.
 
+Vesion 1.0
+
 What You Need:
 > AWS hosted Jenkins server & deployment servers
 > An S3 bucket
